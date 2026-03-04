@@ -71,7 +71,7 @@ penguin-classification/
 ├── reports/
 │   └── Project_Report.docx               # Executive summary
 ├── data/
-│   └── penguins_size.csv                 # Dataset (add your own)
+│   └── penguins_size.csv                 # Dataset 
 ├── visualizations/
 │   ├── flipper_distribution.png
 │   └── bill_dimensions.png
@@ -93,7 +93,7 @@ pip (Python package manager)
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/penguin-classification.git
+   git clone https://github.com/saadprojects/penguin-classification.git
    cd penguin-classification
    ```
 
